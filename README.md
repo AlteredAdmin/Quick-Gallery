@@ -42,10 +42,6 @@ If you want to change the appearance or structure of the gallery, you can edit t
 
 After making changes, rerun the `generate_gallery.py` script to regenerate the static pages.
 
-## License
-
-This project is open-source. Feel free to fork, modify, and use in your projects.
-
 ## Contributions
 
 Contributions, issues, and feature requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
